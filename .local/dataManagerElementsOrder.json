@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "in_Resume_Path&Sequence_1",
+        "dt_Resume&Sequence_3",
+        "str_Body&Sequence_2",
+        "str_Image64&Sequence_2",
+        "in_Dear_Name&Sequence_2",
+        "in_To_Email&Sequence_2",
+        "in_Company_Name&Sequence_2",
+        "ImagePath&Sequence_2",
+        "Image&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
