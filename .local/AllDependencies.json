@@ -24053,9 +24053,9 @@
     "restore": {
       "projectUniqueName": "Resume Sent to Company HR",
       "projectName": "Resume Sent to Company HR",
-      "projectPath": "C:\\Users\\HOME\\Documents\\UiPath\\Resume Sent to Company HR\\.local",
+      "projectPath": "C:\\Users\\HOME\\Documents\\UiPath\\Resume Sent to Company HR\\Resume_Repo\\.local",
       "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HOME\\Documents\\UiPath\\Resume Sent to Company HR\\.local"
+      "outputPath": "C:\\Users\\HOME\\Documents\\UiPath\\Resume Sent to Company HR\\Resume_Repo\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {

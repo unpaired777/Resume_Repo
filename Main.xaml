@@ -134,7 +134,7 @@
           <OutArgument x:TypeArguments="upr:IResource">[in_Resume_Path]</OutArgument>
         </Assign.To>
         <Assign.Value>
-          <InArgument x:TypeArguments="upr:IResource">[LocalResource.FromPath("C:\Users\HOME\Desktop\docs\RPA_UiPath_Prathmesh_Hulavale_2.7_.pdf")]</InArgument>
+          <InArgument x:TypeArguments="upr:IResource">[LocalResource.FromPath("C:\Users\HOME\Desktop\RPA_UiPath_Prathmesh_Hulavale_2+.pdf")]</InArgument>
         </Assign.Value>
       </Assign>
       <ui:ReadRange Range="{x:Null}" WorkbookPathResource="{x:Null}" AddHeaders="True" DataTable="[dt_Resume]" DisplayName="Read Resume Email Data from Excel" sap:VirtualizedContainerService.HintSize="547,120" sap2010:WorkflowViewState.IdRef="ReadRange_1" SheetName="Sheet1" WorkbookPath="C:\Users\HOME\Desktop\Resume Email.xlsx">
@@ -262,12 +262,13 @@
                   </isactr:FieldObject>
                   <isactr:FieldObject Name="sign_off_name" Type="FieldArgument">
                     <isactr:FieldObject.Value>
-                      <InArgument x:TypeArguments="x:String">Prathmesh Hulavale</InArgument>
+                      <InArgument x:TypeArguments="x:String" xml:space="preserve">Prathmesh Hulavale&lt;br&gt;&lt;br&gt;
+&lt;a href='https://unpaired777.github.io/Prathmesh_Hulavale_Portfolio/'&gt;&lt;b&gt;Website : Portfolio &lt;/b&gt;&lt;/a&gt;</InArgument>
                     </isactr:FieldObject.Value>
                   </isactr:FieldObject>
                   <isactr:FieldObject Name="email_content" Type="FieldArgument">
                     <isactr:FieldObject.Value>
-                      <InArgument x:TypeArguments="x:String">[String.Format("Generate an Email body to impress the Recuirter for Uipath RPA Developer recuirment 2.7 Years of experience uipath RPA Developer and i have interest in your company {0} as uipath RPA Developer mention RPA Developer trending skills like API automation, Basic Agentic Automation Mestro , Desktop automation, Database automation , pdf and mentiond some other skils to impress recuirter and generate an perfect email for me",in_Company_Name)]</InArgument>
+                      <InArgument x:TypeArguments="x:String">[String.Format("Generate an Email body to impress the Recuirter for Uipath RPA Developer recuirment 2+ Years of experience uipath RPA Developer and i have interest in your company {0} as uipath RPA Developer mention RPA Developer trending skills like API automation, Basic Agentic Automation Mestro , Desktop automation, Database automation , pdf and mentiond some other skils to impress recuirter and generate an perfect email for me",in_Company_Name)]</InArgument>
                     </isactr:FieldObject.Value>
                   </isactr:FieldObject>
                   <isactr:FieldObject Name="detectInputLanguage" Type="FieldArgument">
